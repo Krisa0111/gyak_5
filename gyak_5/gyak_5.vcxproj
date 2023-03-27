@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="gyak_5.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vector.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
